@@ -1,0 +1,2 @@
+# Project Summary
+# This project is a SmartStore Web Application designed to provide an easy and efficient online shopping experience. It includes features for browsing products, managing user accounts, and handling orders. The system is built using modern web technologies to ensure fast performance, clean structure, and smooth user interactions.
